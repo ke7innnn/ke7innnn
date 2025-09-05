@@ -27,7 +27,7 @@
 ---
 
 ### 🌱 About Me
-- 🌱 Currently exploring **Deep Learning**
+- 🌱 Currently exploring **Deep Learning** & **WebScraping**
 - 👨‍💻 Check all my projects here: [**My GitHub**](https://github.com/ke7innnn)
 - 📫 Reach me at: **ke7inpimenta@gmail.com**
 - ⚡ Fun fact: **sybau**
